@@ -1,0 +1,58 @@
+﻿Build started 10/6/2015 7:35:13 PM.
+     1>Project "C:\Users\shrinivass\Documents\Visual Studio 2013\Projects\Girl_Dancing\Girl_Dancing\Girl_Dancing.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\Users\shrinivass\Downloads\OpenGl\freeglut\include /I"C:\Users\shrinivass\Downloads\OpenGl\glew-1.11.0\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(45): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(59): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(70): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(72): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(76): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(145): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(337): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(566): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(582): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(663): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(679): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(944): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(1240): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(1353): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(1410): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(1439): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(1446): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(1460): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(1467): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(1474): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(1539): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(1547): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(1559): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(1604): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(1616): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(1628): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(1676): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(1757): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(1759): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(1765): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(2214): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(2270): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(2280): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(2286): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(2332): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(2338): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(2350): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(2356): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(2362): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(2368): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(2374): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(2380): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(2450): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(2454): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\girl_dancing\girl_dancing\main.cpp(2466): warning C4305: 'argument' : truncation from 'double' to 'GLclampf'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\shrinivass\Documents\Visual Studio 2013\Projects\Girl_Dancing\Debug\Girl_Dancing.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Users\shrinivass\Downloads\OpenGl\freeglut\lib /LIBPATH:"C:\Users\shrinivass\Downloads\OpenGl\glew-1.11.0\lib" freeglut.lib glew32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\shrinivass\Documents\Visual Studio 2013\Projects\Girl_Dancing\Debug\Girl_Dancing.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\shrinivass\Documents\Visual Studio 2013\Projects\Girl_Dancing\Debug\Girl_Dancing.lib" /MACHINE:X86 Debug\main.obj
+         Girl_Dancing.vcxproj -> C:\Users\shrinivass\Documents\Visual Studio 2013\Projects\Girl_Dancing\Debug\Girl_Dancing.exe
+     1>Done Building Project "C:\Users\shrinivass\Documents\Visual Studio 2013\Projects\Girl_Dancing\Girl_Dancing\Girl_Dancing.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.43
