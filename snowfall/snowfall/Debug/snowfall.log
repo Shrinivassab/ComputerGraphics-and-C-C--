@@ -1,0 +1,41 @@
+﻿Build started 11/18/2015 5:26:15 PM.
+     1>Project "c:\Users\shrinivass\documents\visual studio 2013\Projects\snowfall\snowfall\snowfall.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\Users\shrinivass\Downloads\OpenGl\freeglut\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\snowfall\snowfall\rgbpixmap.h(109): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\snowfall\snowfall\camera.h(81): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\snowfall\snowfall\camera.h(82): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\snowfall\snowfall\camera.h(91): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\snowfall\snowfall\camera.h(92): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\snowfall\snowfall\camera.h(101): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\snowfall\snowfall\camera.h(102): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\snowfall\snowfall\camera.h(111): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\snowfall\snowfall\camera.h(112): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\snowfall\snowfall\main.cpp(28): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\snowfall\snowfall\main.cpp(66): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\snowfall\snowfall\main.cpp(68): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\snowfall\snowfall\main.cpp(78): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\snowfall\snowfall\main.cpp(79): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\snowfall\snowfall\main.cpp(167): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\snowfall\snowfall\main.cpp(183): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\snowfall\snowfall\main.cpp(185): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\snowfall\snowfall\main.cpp(187): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\snowfall\snowfall\main.cpp(188): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\snowfall\snowfall\main.cpp(213): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\snowfall\snowfall\main.cpp(246): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\snowfall\snowfall\main.cpp(283): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\snowfall\snowfall\main.cpp(324): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\snowfall\snowfall\main.cpp(325): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\snowfall\snowfall\main.cpp(330): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\snowfall\snowfall\main.cpp(346): warning C4101: 'y' : unreferenced local variable
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\snowfall\snowfall\main.cpp(346): warning C4101: 'x' : unreferenced local variable
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\snowfall\snowfall\main.cpp(346): warning C4101: 'z' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\shrinivass\documents\visual studio 2013\Projects\snowfall\Debug\snowfall.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Users\shrinivass\Downloads\OpenGl\freeglut\lib freeglut.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\shrinivass\documents\visual studio 2013\Projects\snowfall\Debug\snowfall.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\shrinivass\documents\visual studio 2013\Projects\snowfall\Debug\snowfall.lib" /MACHINE:X86 Debug\main.obj
+         snowfall.vcxproj -> c:\users\shrinivass\documents\visual studio 2013\Projects\snowfall\Debug\snowfall.exe
+     1>Done Building Project "c:\Users\shrinivass\documents\visual studio 2013\Projects\snowfall\snowfall\snowfall.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.80
