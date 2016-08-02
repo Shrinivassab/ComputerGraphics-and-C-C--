@@ -1,0 +1,30 @@
+﻿Build started 9/30/2015 1:17:03 AM.
+     1>Project "C:\Users\shrinivass\documents\visual studio 2013\Projects\Project1\Project1\Project1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\Users\shrinivass\Downloads\OpenGl\freeglut\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt cat_main.cpp
+         cat_main.cpp
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\project1\project1\cat_main.cpp(34): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\project1\project1\cat_main.cpp(46): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\project1\project1\cat_main.cpp(100): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\project1\project1\cat_main.cpp(119): warning C4244: 'argument' : conversion from 'float' to 'GLint', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\project1\project1\cat_main.cpp(122): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\project1\project1\cat_main.cpp(128): warning C4244: 'argument' : conversion from 'float' to 'GLint', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\project1\project1\cat_main.cpp(131): warning C4244: 'argument' : conversion from 'float' to 'GLint', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\project1\project1\cat_main.cpp(132): warning C4244: 'argument' : conversion from 'float' to 'GLint', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\project1\project1\cat_main.cpp(133): warning C4244: 'argument' : conversion from 'float' to 'GLint', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\project1\project1\cat_main.cpp(134): warning C4244: 'argument' : conversion from 'float' to 'GLint', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\project1\project1\cat_main.cpp(135): warning C4244: 'argument' : conversion from 'float' to 'GLint', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\project1\project1\cat_main.cpp(138): warning C4244: 'argument' : conversion from 'float' to 'GLint', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\project1\project1\cat_main.cpp(141): warning C4244: 'argument' : conversion from 'float' to 'GLint', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\project1\project1\cat_main.cpp(142): warning C4244: 'argument' : conversion from 'float' to 'GLint', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\project1\project1\cat_main.cpp(143): warning C4244: 'argument' : conversion from 'float' to 'GLint', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\project1\project1\cat_main.cpp(154): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\project1\project1\cat_main.cpp(155): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\shrinivass\documents\visual studio 2013\Projects\Project1\Debug\cat and mouse.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Users\shrinivass\Downloads\OpenGl\freeglut\lib freeglut.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\shrinivass\documents\visual studio 2013\Projects\Project1\Debug\cat and mouse.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\shrinivass\documents\visual studio 2013\Projects\Project1\Debug\cat and mouse.lib" /MACHINE:X86 Debug\cat_main.obj
+         Project1.vcxproj -> C:\Users\shrinivass\documents\visual studio 2013\Projects\Project1\Debug\cat and mouse.exe
+     1>Done Building Project "C:\Users\shrinivass\documents\visual studio 2013\Projects\Project1\Project1\Project1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.67

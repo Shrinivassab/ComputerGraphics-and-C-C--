@@ -1,0 +1,18 @@
+﻿Build started 11/17/2015 1:44:28 PM.
+     1>Project "C:\Users\shrinivass\Documents\Visual Studio 2013\Projects\Project2\Project2\Project2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\Users\shrinivass\Downloads\OpenGl\freeglut\include /I"C:\Users\shrinivass\Downloads\OpenGl\glew-1.11.0\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\..\..\..\Downloads\Terrian\OpenGL-Terrain-master\RawLoader.cpp" "..\..\..\..\..\Downloads\Terrian\OpenGL-Terrain-master\Terrain.cpp"
+         Terrain.cpp
+     1>c:\users\shrinivass\downloads\terrian\opengl-terrain-master\terrain.cpp(24): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+         RawLoader.cpp
+     1>c:\users\shrinivass\downloads\terrian\opengl-terrain-master\rawloader.cpp(20): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\shrinivass\downloads\terrian\opengl-terrain-master\rawloader.cpp(55): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\shrinivass\downloads\terrian\opengl-terrain-master\rawloader.cpp(56): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+         Generating Code...
+     1>Done Building Project "C:\Users\shrinivass\Documents\Visual Studio 2013\Projects\Project2\Project2\Project2.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.11
