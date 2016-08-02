@@ -1,0 +1,83 @@
+﻿Build started 9/28/2015 7:14:05 PM.
+     1>Project "C:\Users\shrinivass\Documents\Visual Studio 2013\Projects\ass_1\ass_1\ass_1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\Users\shrinivass\Downloads\OpenGl\freeglut\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(13): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(50): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(60): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(61): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(62): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(63): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(64): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(65): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(73): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(80): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(84): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(97): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(115): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(125): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(137): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(146): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(169): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(199): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(216): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(247): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(256): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(267): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(277): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(288): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(298): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(307): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(325): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(348): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(357): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(366): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(376): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(392): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(410): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(425): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(434): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(475): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(482): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(496): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(499): warning C4244: 'argument' : conversion from 'float' to 'GLint', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(500): warning C4244: 'argument' : conversion from 'float' to 'GLint', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(510): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(511): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(512): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(518): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(520): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(521): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(522): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(523): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(529): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(530): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(531): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(532): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(538): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(556): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(621): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(629): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(682): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(689): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(693): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(700): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(706): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(713): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(717): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(724): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(735): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(753): warning C4305: 'argument' : truncation from 'double' to 'GLclampf'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(761): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(783): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(784): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\ass_1\ass_1\main.cpp(786): warning C4305: 'argument' : truncation from 'double' to 'float'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\shrinivass\Documents\Visual Studio 2013\Projects\ass_1\Debug\ass_1.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Users\shrinivass\Downloads\OpenGl\freeglut\lib freeglut.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\shrinivass\Documents\Visual Studio 2013\Projects\ass_1\Debug\ass_1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\shrinivass\Documents\Visual Studio 2013\Projects\ass_1\Debug\ass_1.lib" /MACHINE:X86 Debug\main.obj
+         ass_1.vcxproj -> C:\Users\shrinivass\Documents\Visual Studio 2013\Projects\ass_1\Debug\ass_1.exe
+     1>Done Building Project "C:\Users\shrinivass\Documents\Visual Studio 2013\Projects\ass_1\ass_1\ass_1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.90
