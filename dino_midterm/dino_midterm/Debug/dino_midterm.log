@@ -1,0 +1,27 @@
+﻿Build started 11/1/2015 10:00:25 PM.
+     1>Project "C:\Users\shrinivass\Documents\Visual Studio 2013\Projects\dino_midterm\dino_midterm\dino_midterm.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\Users\shrinivass\Downloads\OpenGl\freeglut\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\dino_midterm\dino_midterm\main.cpp(29): warning C4244: 'argument' : conversion from 'float' to 'GLsizei', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\dino_midterm\dino_midterm\main.cpp(29): warning C4244: 'argument' : conversion from 'float' to 'GLint', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\dino_midterm\dino_midterm\main.cpp(96): warning C4244: 'argument' : conversion from 'float' to 'GLint', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\dino_midterm\dino_midterm\main.cpp(103): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\dino_midterm\dino_midterm\main.cpp(121): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\dino_midterm\dino_midterm\main.cpp(122): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\dino_midterm\dino_midterm\main.cpp(130): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\dino_midterm\dino_midterm\main.cpp(134): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\dino_midterm\dino_midterm\main.cpp(165): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\dino_midterm\dino_midterm\main.cpp(166): warning C4244: 'argument' : conversion from 'float' to 'GLint', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\dino_midterm\dino_midterm\main.cpp(169): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\dino_midterm\dino_midterm\main.cpp(199): warning C4244: 'argument' : conversion from 'float' to 'GLint', possible loss of data
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\dino_midterm\dino_midterm\main.cpp(202): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\shrinivass\documents\visual studio 2013\projects\dino_midterm\dino_midterm\main.cpp(222): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\shrinivass\Documents\Visual Studio 2013\Projects\dino_midterm\Debug\dino_midterm.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Users\shrinivass\Downloads\OpenGl\freeglut\lib freeglut.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\shrinivass\Documents\Visual Studio 2013\Projects\dino_midterm\Debug\dino_midterm.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\shrinivass\Documents\Visual Studio 2013\Projects\dino_midterm\Debug\dino_midterm.lib" /MACHINE:X86 Debug\main.obj
+         dino_midterm.vcxproj -> C:\Users\shrinivass\Documents\Visual Studio 2013\Projects\dino_midterm\Debug\dino_midterm.exe
+     1>Done Building Project "C:\Users\shrinivass\Documents\Visual Studio 2013\Projects\dino_midterm\dino_midterm\dino_midterm.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.37
